@@ -6,20 +6,20 @@ Nicole
 Takila
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [VS Code](#vs-code)
-- [Notion](#notion)
+- [Introduction](#Data scientist)
+- [VS Code](# )
+- [Notion](#Data Management and Analysis)
 - [Canva](#canva)
 
 ## Introduction
-This guide covers tools that every student should know about.
-Each section is written by a different team member.
+A data scientist is a professional who uses data to understand and explain phenomena, helping organizations make better decisions. They combine skills from various domains such as programming, statistics, and domain knowledge to extract valuable insights from large datasets
+
 
 ## VS Code
-<!-- [Team Member 1 Name] will write this section -->
+<!-- [Team Member 1 Joseph Juma] Data scientist includes where a person gives a proffesional advice on a certain bussiness on details that it entails. -->
 
 ## Notion
-<!-- [Team Member 2 Name] will write this section -->
+<!-- [Team Member 2 Lakisha CEO ] -->
 
 ## Canva
-<!-- [Team Member 3 Name] will write this section -->
+<!-- [Team Member 3 Tekila Felix] w -->
