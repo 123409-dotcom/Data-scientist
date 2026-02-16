@@ -1,5 +1,4 @@
-# Useful Tools for Students
-
+# Data scientist
 Juma
 Lakish
 Nicole
