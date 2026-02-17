@@ -1,6 +1,6 @@
-# useful tools for students
+# CAREER PATHS IN TECH
 Juma
-Lakeish
+Lakeisha
 Nicole
 Tekila
 
@@ -27,12 +27,12 @@ A data scientist is a professional who uses data to understand and explain pheno
 <!-- [Team Member 1 Tekila] will write about this section. -->
 
 ## Software-engineer
-<!-- [Team Member 2 Lakeisha CEO ] will write about this section-->
+<!-- [Team Member 2 Lakeisha  ] will write about this section-->
 
 ## Geographic-information-system
 <!-- [Team Member 3 Nicole] will write about this section -->
 
 ~~set up project structure~~
 
-git clone https://github.com/123409-dotcom/useful-tools-for-students.git
+git clone https://github.com/123409-dotcom/career-paths-in-tech.git
 cd useful-tools-for-students
