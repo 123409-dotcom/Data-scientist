@@ -10,6 +10,8 @@ Tekila
 - [Graphic-design](#Graphic-design)
 - [Software-engineer](#Software-engineer)
 - [Geographic-information-system](#Geographic-information-system)
+##Introduction
+Technology offers many exciting career paths, from building software and websites to analyzing data and securing digital systems. Companies like Google and Microsoft show how tech is used to solve real-world problems. With strong demand, flexible work options, and opportunities for growth, a career in tech is ideal for anyone who enjoys learning, creativity, and innovation.
 
 ## Data Scientist
 A data scientist is a professional who uses data to understand and explain phenomena, helping organizations make better decisions. They combine skills from various domains such as programming, statistics, and domain knowledge to extract valuable insights from large datasets
