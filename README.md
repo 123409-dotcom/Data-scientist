@@ -28,7 +28,7 @@ A data scientist is a professional who uses data to understand and explain pheno
 ### link [https://www.coursera.org>articles>what-is-a-data-scientist]
 
 
-## Graphic-dasign
+## Graphic-design
 <!-- [Team Member 1 Tekila] will write about this section. -->
 
 ## Software-engineer
