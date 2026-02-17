@@ -11,7 +11,7 @@ Tekila
 - [Software-engineer](#Software-engineer)
 - [Geographic-information-system](#Geographic-information-system)
 
-## Introduction
+## Data Scientist
 A data scientist is a professional who uses data to understand and explain phenomena, helping organizations make better decisions. They combine skills from various domains such as programming, statistics, and domain knowledge to extract valuable insights from large datasets
 
 ### Why should student study it
