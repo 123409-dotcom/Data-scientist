@@ -7,9 +7,9 @@ Tekila
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data-scientist](#Data-scientist)
-- [Grafic-design](#Grafic-design)
+- [Graphic-design](#Graphic-design)
 - [Software-engineer](#Software-engineer)
-- [Geografic-information-system](#Geografic-information-system)
+- [Geographic-information-system](#Geographic-information-system)
 
 ## Introduction
 A data scientist is a professional who uses data to understand and explain phenomena, helping organizations make better decisions. They combine skills from various domains such as programming, statistics, and domain knowledge to extract valuable insights from large datasets
@@ -23,7 +23,7 @@ A data scientist is a professional who uses data to understand and explain pheno
 ### link [https://www.coursera.org>articles>what-is-a-data-scientist]
 
 
-## Grafic-dasign
+## Graphic-dasign
 <!-- [Team Member 1 Tekila] will write about this section. -->
 
 ## Software-engineer
