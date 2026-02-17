@@ -33,3 +33,6 @@ A data scientist is a professional who uses data to understand and explain pheno
 <!-- [Team Member 3 Nicole] will write about this section -->
 
 ~~set up project structure~~
+
+git clone https://github.com/123409-dotcom/useful-tools-for-students.git
+cd useful-tools-for-students
