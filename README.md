@@ -12,7 +12,7 @@ Tekila
 - [Geographic-information-system](#Geographic-information-system)
 
 
-##Introduction
+#Introduction
 
 Technology offers many exciting career paths, from building software and websites to analyzing data and securing digital systems. Companies like Google and Microsoft show how tech is used to solve real-world problems. With strong demand, flexible work options, and opportunities for growth, a career in tech is ideal for anyone who enjoys learning, creativity, and innovation.
 
