@@ -1,24 +1,35 @@
-# Data scientist
+# useful tools for students
 Juma
-Lakish
+Lakeish
 Nicole
-Takila
+Tekila
 
 ## Table of Contents
-- [Introduction](#Data scientist)
-- [VS Code](# )
-- [Notion](#Data Management and Analysis)
-- [Canva](#canva)
+- [Introduction](#introduction)
+- [Data-scientist](#Data-scientist)
+- [Grafic-design](#Grafic-design)
+- [Software-engineer](#Software-engineer)
+- [Geografic-information-system](#Geografic-information-system)
 
 ## Introduction
 A data scientist is a professional who uses data to understand and explain phenomena, helping organizations make better decisions. They combine skills from various domains such as programming, statistics, and domain knowledge to extract valuable insights from large datasets
 
+### Why should student study it
+-Data Collection and Cleaning: They gather data from various sources and clean it to ensure accuracy and usability.
+-Data Analysis: Using statistical methods and algorithms, data scientists analyze data to identify trends, patterns, and insights.
+-Model Development: They create predictive models and algorithms to forecast outcomes and support decision-making processes.
+-Data Visualization: Data scientists present their findings through visualizations
 
-## VS Code
-<!-- [Team Member 1 Joseph Juma] Data scientist includes where a person gives a proffesional advice on a certain bussiness on details that it entails. -->
+### link [https://www.coursera.org>articles>what-is-a-data-scientist]
 
-## Notion
-<!-- [Team Member 2 Lakisha CEO ] -->
 
-## Canva
-<!-- [Team Member 3 Tekila Felix] w -->
+## Grafic-dasign
+<!-- [Team Member 1 Tekila] will write about this section. -->
+
+## Software-engineer
+<!-- [Team Member 2 Lakeisha CEO ] will write about this section-->
+
+## Geographic-information-system
+<!-- [Team Member 3 Nicole] will write about this section -->
+
+~~set up project structure~~
