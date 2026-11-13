@@ -64,7 +64,7 @@ A data scientist is a professional who uses data to understand and explain pheno
 ###skills required
 Comminication proffesionalism
 Self etic moderation
-cofidence
+confidence
 
  ###Useful Links: 
   [https://www.coursera.org>articles>what-is-a-data-scientist] 
